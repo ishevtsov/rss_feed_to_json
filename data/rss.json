@@ -1,0 +1,4632 @@
+[
+  {
+    "site": "abcnews",
+    "link": "http://feeds.abcnews.com/abcnews/usheadlines",
+    "type": "rss"
+  },
+  {
+    "site": "cnn",
+    "link": "http://rss.cnn.com/rss/cnn_topstories.rss",
+    "type": "rss"
+  },
+  {
+    "site": "cbsnews",
+    "link": "http://www.cbsnews.com/latest/rss/main",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://www.nytimes.com/services/xml/rss/nyt/National.xml",
+    "type": "rss"
+  },
+  {
+    "site": "online.wsj",
+    "link": "http://online.wsj.com/xml/rss/3_7085.xml",
+    "type": "rss"
+  },
+  {
+    "site": "content.usatoday",
+    "link": "http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=news2",
+    "type": "rss"
+  },
+  {
+    "site": "csmonitor",
+    "link": "http://rss.csmonitor.com/feeds/usa",
+    "type": "rss"
+  },
+  {
+    "site": "nbcnews",
+    "link": "http://feeds.nbcnews.com/feeds/topstories",
+    "type": "rss"
+  },
+  {
+    "site": "nbcnews",
+    "link": "http://feeds.nbcnews.com/feeds/worldnews",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/Reuters/worldNews",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/Reuters/domesticNews",
+    "type": "rss"
+  },
+  {
+    "site": "hosted.ap",
+    "link": "http://hosted.ap.org/lineups/USHEADS.rss",
+    "type": "rss"
+  },
+  {
+    "site": "hosted.ap",
+    "link": "http://hosted.ap.org/lineups/WORLDHEADS.rss",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/world/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://news.yahoo.com/rss/us",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://rss.news.yahoo.com/rss/world",
+    "type": "rss"
+  },
+  {
+    "site": "newsweek",
+    "link": "http://www.newsweek.com/rss",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/thedailybeast/articles",
+    "type": "rss"
+  },
+  {
+    "site": "qz",
+    "link": "http://qz.com/feed",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/world/usa/rss",
+    "type": "rss"
+  },
+  {
+    "site": "politico",
+    "link": "http://www.politico.com/rss/politicopicks.xml",
+    "type": "rss"
+  },
+  {
+    "site": "newyorker",
+    "link": "http://www.newyorker.com/feed/news",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/NationPBSNewsHour",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/NewshourWorld",
+    "type": "rss"
+  },
+  {
+    "site": "usnews",
+    "link": "http://www.usnews.com/rss/news",
+    "type": "rss"
+  },
+  {
+    "site": "npr",
+    "link": "http://www.npr.org/rss/rss.php?id=1003",
+    "type": "rss"
+  },
+  {
+    "site": "npr",
+    "link": "http://www.npr.org/rss/rss.php?id=1004",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/AtlanticNational",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TheAtlanticWire",
+    "type": "rss"
+  },
+  {
+    "site": "latimes",
+    "link": "http://www.latimes.com/nation/rss2.0.xml",
+    "type": "rss"
+  },
+  {
+    "site": "latimes",
+    "link": "http://www.latimes.com/world/rss2.0.xml",
+    "type": "rss"
+  },
+  {
+    "site": "api.breakingnews",
+    "link": "http://api.breakingnews.com/api/v1/item/?format=rss",
+    "type": "rss"
+  },
+  {
+    "site": "news.vice",
+    "link": "https://news.vice.com/rss",
+    "type": "rss"
+  },
+  {
+    "site": "talkingpointsmemo",
+    "link": "http://talkingpointsmemo.com/feed/livewire",
+    "type": "rss"
+  },
+  {
+    "site": "salon",
+    "link": "http://www.salon.com/category/news/feed/rss/",
+    "type": "rss"
+  },
+  {
+    "site": "time",
+    "link": "http://time.com/newsfeed/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "foxnews",
+    "link": "http://feeds.foxnews.com/foxnews/latest?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "mashable",
+    "link": "http://mashable.com/us-world/rss/",
+    "type": "rss"
+  },
+  {
+    "site": "politico",
+    "link": "http://www.politico.com/rss/magazine.xml",
+    "type": "rss"
+  },
+  {
+    "site": "politico",
+    "link": "http://www.politico.com/rss/Top10Blogs.xml",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/politics/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "cnn",
+    "link": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+    "type": "rss"
+  },
+  {
+    "site": "buzzfeed",
+    "link": "http://www.buzzfeed.com/politics.xml",
+    "type": "rss"
+  },
+  {
+    "site": "nbcnews",
+    "link": "http://feeds.nbcnews.com/feeds/nbcpolitics",
+    "type": "rss"
+  },
+  {
+    "site": "foxnews",
+    "link": "http://feeds.foxnews.com/foxnews/politics",
+    "type": "rss"
+  },
+  {
+    "site": "washingtonpost",
+    "link": "http://feeds.washingtonpost.com/rss/rss_election-2012",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml",
+    "type": "rss"
+  },
+  {
+    "site": "thecaucus.blogs.nytimes",
+    "link": "http://thecaucus.blogs.nytimes.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/Reuters/PoliticsNews",
+    "type": "rss"
+  },
+  {
+    "site": "blogs.wsj",
+    "link": "http://blogs.wsj.com/washwire/feed/?mod=WSJ_Politics%2520and%2520Policy",
+    "type": "rss"
+  },
+  {
+    "site": "reddit",
+    "link": "http://www.reddit.com/r/politics/.rss",
+    "type": "rss"
+  },
+  {
+    "site": "dailykos",
+    "link": "http://feeds.dailykos.com/dailykos/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "npr",
+    "link": "http://www.npr.org/rss/rss.php?id=1014",
+    "type": "rss"
+  },
+  {
+    "site": "npr",
+    "link": "http://www.npr.org/rss/rss.php?id=5",
+    "type": "rss"
+  },
+  {
+    "site": "rollcall",
+    "link": "http://www.rollcall.com/rss/all_news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "rollcall",
+    "link": "http://www.rollcall.com/news/?zkDo=showRSS",
+    "type": "rss"
+  },
+  {
+    "site": "rollcall",
+    "link": "http://www.rollcall.com/politics/archives/?zkDo=showRSS",
+    "type": "rss"
+  },
+  {
+    "site": "rollcall",
+    "link": "http://www.rollcall.com/policy/archives/?zkDo=showRSS",
+    "type": "rss"
+  },
+  {
+    "site": "nationaljournal",
+    "link": "http://www.nationaljournal.com/?rss=1",
+    "type": "rss"
+  },
+  {
+    "site": "nationaljournal",
+    "link": "http://www.nationaljournal.com/white-house?rss=1",
+    "type": "rss"
+  },
+  {
+    "site": "nationaljournal",
+    "link": "http://www.nationaljournal.com/congress?rss=1",
+    "type": "rss"
+  },
+  {
+    "site": "nationaljournal",
+    "link": "http://www.nationaljournal.com/politics?rss=1",
+    "type": "rss"
+  },
+  {
+    "site": "nationaljournal",
+    "link": "http://www.nationaljournal.com/congressional-connection?rss=1",
+    "type": "rss"
+  },
+  {
+    "site": "thenation",
+    "link": "http://www.thenation.com/rss/articles",
+    "type": "rss"
+  },
+  {
+    "site": "thenation",
+    "link": "http://www.thenation.com/blogs/rss/politics",
+    "type": "rss"
+  },
+  {
+    "site": "thenation",
+    "link": "http://www.thenation.com/blogs/rss/foreign-reporting",
+    "type": "rss"
+  },
+  {
+    "site": "washingtontimes",
+    "link": "http://www.washingtontimes.com/rss/headlines/news/politics/",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/realclearpolitics/qlMj",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/BreitbartFeed",
+    "type": "rss"
+  },
+  {
+    "site": "dailycaller",
+    "link": "http://dailycaller.com/section/politics/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "nationalreview",
+    "link": "https://www.nationalreview.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/DrudgeReportFeed",
+    "type": "rss"
+  },
+  {
+    "site": "weeklystandard",
+    "link": "http://www.weeklystandard.com/rss/site.xml",
+    "type": "rss"
+  },
+  {
+    "site": "usnews",
+    "link": "http://www.usnews.com/blogrss/washington-whispers",
+    "type": "rss"
+  },
+  {
+    "site": "usnews",
+    "link": "http://www.usnews.com/blogrss/Ken-Walshs-Washington",
+    "type": "rss"
+  },
+  {
+    "site": "usnews",
+    "link": "http://www.usnews.com/blogrss/ballot-2014",
+    "type": "rss"
+  },
+  {
+    "site": "slate",
+    "link": "http://feeds.slate.com/slate-101526",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/motherjones/Politics",
+    "type": "rss"
+  },
+  {
+    "site": "newrepublic",
+    "link": "http://www.newrepublic.com/taxonomy/term/17538/feed",
+    "type": "rss"
+  },
+  {
+    "site": "fivethirtyeight",
+    "link": "http://fivethirtyeight.com/politics/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "redstate",
+    "link": "http://www.redstate.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "humanevents",
+    "link": "http://humanevents.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "twitchy",
+    "link": "http://twitchy.com/category/us-politics/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "talkingpointsmemo",
+    "link": "http://talkingpointsmemo.com/feed/all",
+    "type": "rss"
+  },
+  {
+    "site": "hosted2.ap",
+    "link": "http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3",
+    "type": "rss"
+  },
+  {
+    "site": "online.wsj",
+    "link": "http://online.wsj.com/xml/rss/3_7014.xml",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://www.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/reuters/businessNews",
+    "type": "rss"
+  },
+  {
+    "site": "washingtonpost",
+    "link": "http://feeds.washingtonpost.com/rss/rss_storyline",
+    "type": "rss"
+  },
+  {
+    "site": "washingtonpost",
+    "link": "http://feeds.washingtonpost.com/rss/rss_wonkblog",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/feeds/print-sections/77/business.xml",
+    "type": "rss"
+  },
+  {
+    "site": "business-standard",
+    "link": "http://www.business-standard.com/rss/latest.rss",
+    "type": "rss"
+  },
+  {
+    "site": "business-standard",
+    "link": "http://www.business-standard.com/rss/home_page_top_stories.rss",
+    "type": "rss"
+  },
+  {
+    "site": "harvardbusiness",
+    "link": "http://feeds.harvardbusiness.org/harvardbusiness?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "au.ibtimes",
+    "link": "http://au.ibtimes.com/rss/articles/region/1.rss",
+    "type": "rss"
+  },
+  {
+    "site": "businessweek",
+    "link": "http://www.businessweek.com/search/rssfeed.htm",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/business/news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ft",
+    "link": "http://www.ft.com/rss/home/us",
+    "type": "rss"
+  },
+  {
+    "site": "cnn",
+    "link": "http://rss.cnn.com/rss/edition_business.rss",
+    "type": "rss"
+  },
+  {
+    "site": "bloomberg",
+    "link": "http://www.bloomberg.com/feed/podcast/law.xml",
+    "type": "rss"
+  },
+  {
+    "site": "health.harvard.edu",
+    "link": "http://www.health.harvard.edu/rss.php",
+    "type": "rss"
+  },
+  {
+    "site": "health",
+    "link": "http://www.health.com/health/healthy-happy/feed",
+    "type": "rss"
+  },
+  {
+    "site": "cnn",
+    "link": "http://rss.cnn.com/rss/cnn_health.rss",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://www.nytimes.com/services/xml/rss/nyt/Health.xml",
+    "type": "rss"
+  },
+  {
+    "site": "forbes",
+    "link": "http://www.forbes.com/health/feed2/",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/health/rss.xml?edition=us",
+    "type": "rss"
+  },
+  {
+    "site": "abcnews",
+    "link": "http://feeds.abcnews.com/abcnews/healthheadlines",
+    "type": "rss"
+  },
+  {
+    "site": "nbcnews",
+    "link": "http://feeds.nbcnews.com/feeds/health",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/reuters/healthNews",
+    "type": "rss"
+  },
+  {
+    "site": "chicagotribune",
+    "link": "http://www.chicagotribune.com/lifestyles/health/rss2.0.xml",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://feeds.huffingtonpost.com/c/35496/f/677071/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/society/health/rss",
+    "type": "rss"
+  },
+  {
+    "site": "nydailynews",
+    "link": "http://www.nydailynews.com/lifestyle/health/index_rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "menshealth",
+    "link": "http://www.menshealth.com/events-promotions/washpofeed",
+    "type": "rss"
+  },
+  {
+    "site": "glamour",
+    "link": "http://feeds.glamour.com/glamour/health_fitness",
+    "type": "rss"
+  },
+  {
+    "site": "newscientist",
+    "link": "http://feeds.newscientist.com/health",
+    "type": "rss"
+  },
+  {
+    "site": "time",
+    "link": "http://time.com/health/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "hosted2.ap",
+    "link": "http://hosted2.ap.org/atom/APDEFAULT/bbd825583c8542898e6fa7d440b9febc",
+    "type": "rss"
+  },
+  {
+    "site": "womenshealthandfitness",
+    "link": "http://www.womenshealthandfitness.com.au/component/obrss/women-s-health-fitness-combined-feed",
+    "type": "rss"
+  },
+  {
+    "site": "usnews",
+    "link": "http://www.usnews.com/rss/health?int=a7fe09",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://news.yahoo.com/rss/health",
+    "type": "rss"
+  },
+  {
+    "site": "wsj",
+    "link": "http://www.wsj.com/xml/rss/3_7201.xml",
+    "type": "rss"
+  },
+  {
+    "site": "healthcareitnews",
+    "link": "http://www.healthcareitnews.com/home/feed",
+    "type": "rss"
+  },
+  {
+    "site": "modernhealthcare",
+    "link": "http://www.modernhealthcare.com/section/rss01\u0026mime=xml",
+    "type": "rss"
+  },
+  {
+    "site": "mayoclinic",
+    "link": "http://www.mayoclinic.org/rss/all-health-information-topics",
+    "type": "rss"
+  },
+  {
+    "site": "sciencedaily",
+    "link": "http://feeds.sciencedaily.com/sciencedaily/top_news/top_health",
+    "type": "rss"
+  },
+  {
+    "site": "khn",
+    "link": "http://khn.org/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "lexblog",
+    "link": "http://feeds.lexblog.com/foodsafetynews/mRcs",
+    "type": "rss"
+  },
+  {
+    "site": "washingtonpost",
+    "link": "http://feeds.washingtonpost.com/rss/lifestyle",
+    "type": "rss"
+  },
+  {
+    "site": "buzzfeed",
+    "link": "http://www.buzzfeed.com/health.xml",
+    "type": "rss"
+  },
+  {
+    "site": "vitals.lifehacker",
+    "link": "http://vitals.lifehacker.com/rss",
+    "type": "rss"
+  },
+  {
+    "site": "self",
+    "link": "http://www.self.com/feed/fitness-news/",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://feeds.huffingtonpost.com/c/35496/f/677070/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "cpsc",
+    "link": "http://www.cpsc.gov/en/Newsroom/CPSC-RSS-Feed/Recalls-RSS/",
+    "type": "rss"
+  },
+  {
+    "site": "cpsc",
+    "link": "http://www.cpsc.gov/en/Newsroom/CPSC-RSS-Feed/Recalls-RSS/",
+    "type": "rss"
+  },
+  {
+    "site": "medpagetoday",
+    "link": "http://www.medpagetoday.com/rss/Headlines.xml",
+    "type": "rss"
+  },
+  {
+    "site": "medscape",
+    "link": "http://www.medscape.com/cx/rssfeeds/2700.xml",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss",
+    "type": "rss"
+  },
+  {
+    "site": "medicalnewstoday",
+    "link": "http://rss.medicalnewstoday.com/featurednews.xml",
+    "type": "rss"
+  },
+  {
+    "site": "npr",
+    "link": "http://www.npr.org/rss/rss.php?id=1128",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/science/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Space.xml",
+    "type": "rss"
+  },
+  {
+    "site": "foxnews",
+    "link": "http://feeds.foxnews.com/foxnews/science",
+    "type": "rss"
+  },
+  {
+    "site": "nbcnews",
+    "link": "http://feeds.nbcnews.com/feeds/science",
+    "type": "rss"
+  },
+  {
+    "site": "sciam",
+    "link": "http://rss.sciam.com/ScientificAmerican-Global",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/BreakingScienceNews?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "wired",
+    "link": "http://feeds.wired.com/wiredscience",
+    "type": "rss"
+  },
+  {
+    "site": "sciencedaily",
+    "link": "http://feeds.sciencedaily.com/sciencedaily",
+    "type": "rss"
+  },
+  {
+    "site": "latimes",
+    "link": "http://www.latimes.com/health/rss2.0.xml",
+    "type": "rss"
+  },
+  {
+    "site": "chron",
+    "link": "http://www.chron.com/rss/feed/AP-Technology-and-Science-266.php",
+    "type": "rss"
+  },
+  {
+    "site": "washingtonpost",
+    "link": "http://feeds.washingtonpost.com/rss/rss_speaking-of-science",
+    "type": "rss"
+  },
+  {
+    "site": "sciencemag",
+    "link": "http://www.sciencemag.org/rss/current.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/DiscoverTopStories",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "howtogeek",
+    "link": "http://feeds.howtogeek.com/howtogeek",
+    "type": "rss"
+  },
+  {
+    "site": "syndication.howstuffworks",
+    "link": "http://syndication.howstuffworks.com/rss/science",
+    "type": "rss"
+  },
+  {
+    "site": "npr",
+    "link": "http://www.npr.org/templates/rss/podlayer.php?id=1007",
+    "type": "rss"
+  },
+  {
+    "site": "nasa",
+    "link": "http://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "type": "rss"
+  },
+  {
+    "site": "livescience",
+    "link": "http://www.livescience.com/home/feed/site.xml",
+    "type": "rss"
+  },
+  {
+    "site": "sciam",
+    "link": "http://rss.sciam.com/ScientificAmerican-News",
+    "type": "rss"
+  },
+  {
+    "site": "nature",
+    "link": "http://feeds.nature.com/nbt/rss/current",
+    "type": "rss"
+  },
+  {
+    "site": "popsci",
+    "link": "http://www.popsci.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "nautil.us",
+    "link": "http://nautil.us/rss/all",
+    "type": "rss"
+  },
+  {
+    "site": "arstechnica",
+    "link": "http://feeds.arstechnica.com/arstechnica/science",
+    "type": "rss"
+  },
+  {
+    "site": "smithsonianmag",
+    "link": "http://www.smithsonianmag.com/rss/science-nature/",
+    "type": "rss"
+  },
+  {
+    "site": "gawker",
+    "link": "http://feeds.gawker.com/io9/full#_ga=1.239815749.772722176.1436906624",
+    "type": "rss"
+  },
+  {
+    "site": "newscientist",
+    "link": "http://feeds.newscientist.com/science-news",
+    "type": "rss"
+  },
+  {
+    "site": "newscientist",
+    "link": "http://feeds.newscientist.com/space",
+    "type": "rss"
+  },
+  {
+    "site": "pnas",
+    "link": "http://www.pnas.org/rss/Feature_Article.xml",
+    "type": "rss"
+  },
+  {
+    "site": "treehugger",
+    "link": "http://www.treehugger.com/feeds/category/science/",
+    "type": "rss"
+  },
+  {
+    "site": "feeds2.feedburner",
+    "link": "http://feeds2.feedburner.com/time/scienceandhealth",
+    "type": "rss"
+  },
+  {
+    "site": "eurekalert",
+    "link": "http://www.eurekalert.org/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "phys",
+    "link": "http://phys.org/rss-feed/",
+    "type": "rss"
+  },
+  {
+    "site": "csmonitor",
+    "link": "http://rss.csmonitor.com/feeds/science",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://news.yahoo.com/rss/science",
+    "type": "rss"
+  },
+  {
+    "site": "hosted2.ap",
+    "link": "http://hosted2.ap.org/atom/APDEFAULT/b2f0ca3a594644ee9e50a8ec4ce2d6de",
+    "type": "rss"
+  },
+  {
+    "site": "omnifeed",
+    "link": "http://omnifeed.com/feed/www.iflscience.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news.nationalgeographic",
+    "link": "http://news.nationalgeographic.com/rss/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "wired",
+    "link": "http://www.wired.com/category/science/science-blogs/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/reuters/scienceNews",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/IeeeSpectrumFullText",
+    "type": "rss"
+  },
+  {
+    "site": "theverge",
+    "link": "http://www.theverge.com/science/rss/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "grist",
+    "link": "http://grist.org/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/science/rss",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/us/environment/rss",
+    "type": "rss"
+  },
+  {
+    "site": "sciencedaily",
+    "link": "http://feeds.sciencedaily.com/sciencedaily",
+    "type": "rss"
+  },
+  {
+    "site": "viralnova",
+    "link": "http://www.viralnova.com/feed",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+    "type": "rss"
+  },
+  {
+    "site": "buzzfeed",
+    "link": "http://www.buzzfeed.com/sports.xml",
+    "type": "rss"
+  },
+  {
+    "site": "foxnews",
+    "link": "http://feeds.foxnews.com/foxnews/sports",
+    "type": "rss"
+  },
+  {
+    "site": "sbnation",
+    "link": "http://feeds.sbnation.com/rss/streams",
+    "type": "rss"
+  },
+  {
+    "site": "sports.espn.go",
+    "link": "http://sports.espn.go.com/espn/rss/news",
+    "type": "rss"
+  },
+  {
+    "site": "latimes",
+    "link": "http://www.latimes.com/sports/rss2.0.xml",
+    "type": "rss"
+  },
+  {
+    "site": "cbssports",
+    "link": "http://www.cbssports.com/partners/feeds/rss/home_news",
+    "type": "rss"
+  },
+  {
+    "site": "si",
+    "link": "http://www.si.com/rss/si_topstories.rss",
+    "type": "rss"
+  },
+  {
+    "site": "gawker",
+    "link": "http://feeds.gawker.com/deadspin/full",
+    "type": "rss"
+  },
+  {
+    "site": "sports",
+    "link": "https://sports.yahoo.com/top/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "content.usatoday",
+    "link": "http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=sports1",
+    "type": "rss"
+  },
+  {
+    "site": "washingtonpost",
+    "link": "http://feeds.washingtonpost.com/rss/rss_early-lead",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/sport/us-sport/rss",
+    "type": "rss"
+  },
+  {
+    "site": "hosted.ap",
+    "link": "http://hosted.ap.org/lineups/SPORTSHEADS.rss?SITE=AP\u0026SECTION=HOME",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/technology/news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "cnn",
+    "link": "http://rss.cnn.com/rss/cnn_tech.rss",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "type": "rss"
+  },
+  {
+    "site": "foxnews",
+    "link": "http://feeds.foxnews.com/foxnews/tech",
+    "type": "rss"
+  },
+  {
+    "site": "theverge",
+    "link": "http://www.theverge.com/rss/group/features/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TechCrunch/",
+    "type": "rss"
+  },
+  {
+    "site": "wired",
+    "link": "http://feeds.wired.com/wired/index",
+    "type": "rss"
+  },
+  {
+    "site": "mashable",
+    "link": "http://mashable.com/category/rss/",
+    "type": "rss"
+  },
+  {
+    "site": "cnet",
+    "link": "http://www.cnet.com/rss/news/",
+    "type": "rss"
+  },
+  {
+    "site": "cnet",
+    "link": "http://www.cnet.com/rss/iphone-update/",
+    "type": "rss"
+  },
+  {
+    "site": "cnet",
+    "link": "http://www.cnet.com/rss/android-update/",
+    "type": "rss"
+  },
+  {
+    "site": "online.wsj",
+    "link": "http://online.wsj.com/xml/rss/3_7455.xml",
+    "type": "rss"
+  },
+  {
+    "site": "npr",
+    "link": "http://www.npr.org/rss/rss.php?id=1019",
+    "type": "rss"
+  },
+  {
+    "site": "macworld",
+    "link": "http://www.macworld.com/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "pcworld",
+    "link": "http://www.pcworld.com/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "recode",
+    "link": "http://recode.net/category/general/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "recode",
+    "link": "http://recode.net/category/mobile/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "recode",
+    "link": "http://recode.net/category/security/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "recode",
+    "link": "http://recode.net/category/enterprise/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "engadget",
+    "link": "http://www.engadget.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "gawker",
+    "link": "http://feeds.gawker.com/gizmodo/full",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/techcrunch/startups?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TechCrunch/Gaming?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "venturebeat",
+    "link": "http://feeds.venturebeat.com/VentureBeat",
+    "type": "rss"
+  },
+  {
+    "site": "venturebeat",
+    "link": "http://feeds.venturebeat.com/smallbiz",
+    "type": "rss"
+  },
+  {
+    "site": "gawker",
+    "link": "http://feeds.gawker.com/valleywag/full",
+    "type": "rss"
+  },
+  {
+    "site": "latimes",
+    "link": "http://www.latimes.com/business/technology/rss2.0.xml",
+    "type": "rss"
+  },
+  {
+    "site": "bizjournals",
+    "link": "http://feeds.bizjournals.com/industry_7",
+    "type": "rss"
+  },
+  {
+    "site": "abcnews",
+    "link": "http://feeds.abcnews.com/abcnews/technologyheadlines",
+    "type": "rss"
+  },
+  {
+    "site": "buzzfeed",
+    "link": "http://www.buzzfeed.com/tech.xml",
+    "type": "rss"
+  },
+  {
+    "site": "webservice.techradar",
+    "link": "http://feeds.webservice.techradar.com/us/rss/new",
+    "type": "rss"
+  },
+  {
+    "site": "gigaom",
+    "link": "http://gigaom.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "arstechnica",
+    "link": "http://feeds.arstechnica.com/arstechnica/gadgets",
+    "type": "rss"
+  },
+  {
+    "site": "geek",
+    "link": "http://www.geek.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/reuters/technologyNews?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "computerweekly",
+    "link": "http://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
+    "type": "rss"
+  },
+  {
+    "site": "techrepublic.com",
+    "link": "http://techrepublic.com.feedsportal.com/c/35463/f/670841/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "zdnet.com",
+    "link": "http://zdnet.com.feedsportal.com/c/35462/f/675634/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "forbes",
+    "link": "http://www.forbes.com/technology/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "time",
+    "link": "http://time.com/tech/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "feedsportal",
+    "link": "http://rss.feedsportal.com/c/270/f/3547/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "usatoday",
+    "link": "http://rssfeeds.usatoday.com/usatoday-TechTopStories",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theinquirer",
+    "link": "http://www.theinquirer.net/feeds/rss",
+    "type": "rss"
+  },
+  {
+    "site": "techreport",
+    "link": "http://techreport.com/news.rss",
+    "type": "rss"
+  },
+  {
+    "site": "techspot",
+    "link": "http://www.techspot.com/backend.xml",
+    "type": "rss"
+  },
+  {
+    "site": "techtarget",
+    "link": "http://www.techtarget.com/html/pr/tt_pr.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/geekologie/iShm",
+    "type": "rss"
+  },
+  {
+    "site": "dailytech",
+    "link": "http://www.dailytech.com/rss.aspx",
+    "type": "rss"
+  },
+  {
+    "site": "digitaltrends",
+    "link": "http://www.digitaltrends.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "feeds2.feedburner",
+    "link": "http://feeds2.feedburner.com/bit-tech/all",
+    "type": "rss"
+  },
+  {
+    "site": "wsj",
+    "link": "http://www.wsj.com/xml/rss/3_7455.xml",
+    "type": "rss"
+  },
+  {
+    "site": "arstechnica",
+    "link": "http://feeds.arstechnica.com/arstechnica/technology-lab",
+    "type": "rss"
+  },
+  {
+    "site": "arstechnica",
+    "link": "http://feeds.arstechnica.com/arstechnica/gadgets",
+    "type": "rss"
+  },
+  {
+    "site": "arstechnica",
+    "link": "http://feeds.arstechnica.com/arstechnica/business",
+    "type": "rss"
+  },
+  {
+    "site": "informationweek",
+    "link": "http://www.informationweek.com/rss_simple.asp",
+    "type": "rss"
+  },
+  {
+    "site": "newscientist",
+    "link": "http://feeds.newscientist.com/tech",
+    "type": "rss"
+  },
+  {
+    "site": "nature",
+    "link": "http://feeds.nature.com/news/rss/news_s16",
+    "type": "rss"
+  },
+  {
+    "site": "technologyreview",
+    "link": "http://www.technologyreview.com/stream/rss/",
+    "type": "rss"
+  },
+  {
+    "site": "hosted2.ap",
+    "link": "http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd",
+    "type": "rss"
+  },
+  {
+    "site": "sciencedaily",
+    "link": "http://feeds.sciencedaily.com/sciencedaily/top_news/top_health",
+    "type": "rss"
+  },
+  {
+    "site": "washingtonpost",
+    "link": "http://feeds.washingtonpost.com/rss/business/technology",
+    "type": "rss"
+  },
+  {
+    "site": "techinsider.io",
+    "link": "http://www.techinsider.io/rss",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/IeeeSpectrumRoboticsChannel",
+    "type": "rss"
+  },
+  {
+    "site": "theverge",
+    "link": "http://www.theverge.com/tech/rss/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "recode",
+    "link": "http://recode.net/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "blogs.wsj",
+    "link": "http://blogs.wsj.com/speakeasy/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "mtv",
+    "link": "http://www.mtv.com/rss/news/news_full.jhtml",
+    "type": "rss"
+  },
+  {
+    "site": "hollywoodreporter",
+    "link": "http://www.hollywoodreporter.com/blogs/live-feed/rss",
+    "type": "rss"
+  },
+  {
+    "site": "variety",
+    "link": "http://variety.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "rollingstone",
+    "link": "http://www.rollingstone.com/news.rss",
+    "type": "rss"
+  },
+  {
+    "site": "ew",
+    "link": "http://rss.ew.com/web/ew/rss/todayslatest/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "grantland",
+    "link": "http://grantland.com/hollywood-prospectus/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "latimes",
+    "link": "http://www.latimes.com/entertainment/rss2.0.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/nymag/vulture",
+    "type": "rss"
+  },
+  {
+    "site": "newyorker",
+    "link": "http://www.newyorker.com/feed/culture",
+    "type": "rss"
+  },
+  {
+    "site": "buzzfeed",
+    "link": "http://www.buzzfeed.com/tvandmovies.xml",
+    "type": "rss"
+  },
+  {
+    "site": "usatoday",
+    "link": "http://rssfeeds.usatoday.com/usatoday-LifeTopStories",
+    "type": "rss"
+  },
+  {
+    "site": "accesshollywood",
+    "link": "http://feeds.accesshollywood.com/AccessHollywood/LatestNews",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/fuse/latest",
+    "type": "rss"
+  },
+  {
+    "site": "tmz",
+    "link": "http://www.tmz.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "cbsnews",
+    "link": "http://www.cbsnews.com/latest/rss/entertainment",
+    "type": "rss"
+  },
+  {
+    "site": "abcnews",
+    "link": "http://feeds.abcnews.com/abcnews/entertainmentheadlines",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/nydnrss/entertainment",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/entertainment/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "vice",
+    "link": "http://www.vice.com/music/rss",
+    "type": "rss"
+  },
+  {
+    "site": "deadline",
+    "link": "http://deadline.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/EtsBreakingNews",
+    "type": "rss"
+  },
+  {
+    "site": "nbcnews",
+    "link": "http://feeds.nbcnews.com/feeds/todayentertainment",
+    "type": "rss"
+  },
+  {
+    "site": "cnn",
+    "link": "http://rss.cnn.com/rss/cnn_showbiz.rss",
+    "type": "rss"
+  },
+  {
+    "site": "bet",
+    "link": "http://feeds.bet.com/AllBetcom",
+    "type": "rss"
+  },
+  {
+    "site": "popsugar",
+    "link": "http://www.popsugar.com/feed",
+    "type": "rss"
+  },
+  {
+    "site": "feed2.hollywood",
+    "link": "http://feed2.hollywood.com/hollywood/RhHn",
+    "type": "rss"
+  },
+  {
+    "site": "hitfix",
+    "link": "http://www.hitfix.com/headlines.rss",
+    "type": "rss"
+  },
+  {
+    "site": "people",
+    "link": "http://rss.people.com/web/people/rss/topheadlines/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "esquire",
+    "link": "http://www.esquire.com/blogs/culture/culture-rss",
+    "type": "rss"
+  },
+  {
+    "site": "usmagazine",
+    "link": "http://www.usmagazine.com/feeds/movies_tv_music/atom",
+    "type": "rss"
+  },
+  {
+    "site": "feeds2.feedburner",
+    "link": "http://feeds2.feedburner.com/nmecom/rss/newsxml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://news.yahoo.com/rss/entertainment",
+    "type": "rss"
+  },
+  {
+    "site": "washingtonpost",
+    "link": "http://www.washingtonpost.com/rss/entertainment",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/reuters/entertainment",
+    "type": "rss"
+  },
+  {
+    "site": "ign",
+    "link": "http://feeds.ign.com/ign/all",
+    "type": "rss"
+  },
+  {
+    "site": "gawker",
+    "link": "http://feeds.gawker.com/kotaku/full#_ga=1.111114893.94307673.1446233598",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/RockPaperShotgun",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/VGChartz",
+    "type": "rss"
+  },
+  {
+    "site": "toucharcade",
+    "link": "http://toucharcade.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "killscreendaily",
+    "link": "http://killscreendaily.com/articles/latest/",
+    "type": "rss"
+  },
+  {
+    "site": "engadget",
+    "link": "http://www.engadget.com/tag/@gaming/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "fulltextrssfeed",
+    "link": "http://fulltextrssfeed.com/feed.php?url=www.joystiq.com%2Frss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "gamesindustry.biz",
+    "link": "http://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss",
+    "type": "rss"
+  },
+  {
+    "site": "giantbomb",
+    "link": "http://www.giantbomb.com/feeds/mashup/",
+    "type": "rss"
+  },
+  {
+    "site": "gamespot",
+    "link": "http://www.gamespot.com/feeds/mashup/",
+    "type": "rss"
+  },
+  {
+    "site": "pcworld",
+    "link": "http://www.pcworld.com/column/game-on/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "gamepolitics",
+    "link": "http://gamepolitics.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "gamasutra",
+    "link": "http://www.gamasutra.com/static2/rssfeeds.html",
+    "type": "rss"
+  },
+  {
+    "site": "eurogamer",
+    "link": "http://www.eurogamer.net/?format=rss",
+    "type": "rss"
+  },
+  {
+    "site": "escapistmagazine",
+    "link": "http://rss.escapistmagazine.com/tags/video-games.xml",
+    "type": "rss"
+  },
+  {
+    "site": "destructoid",
+    "link": "http://www.destructoid.com/?mode=atom",
+    "type": "rss"
+  },
+  {
+    "site": "cheapassgamer",
+    "link": "https://www.cheapassgamer.com/rss/forums/1-cheap-ass-gamer-video-game-deals-forum/",
+    "type": "rss"
+  },
+  {
+    "site": "gametrailers",
+    "link": "http://www.gametrailers.com/about/rss",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/Rpgcast",
+    "type": "rss"
+  },
+  {
+    "site": "tigsource",
+    "link": "http://www.tigsource.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "pocketgamer",
+    "link": "http://www.pocketgamer.co.uk/rss.asp",
+    "type": "rss"
+  },
+  {
+    "site": "polygon",
+    "link": "http://www.polygon.com/rss/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "gamesradar",
+    "link": "http://www.gamesradar.com/all-platforms/news/rss/",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TechCrunch/gaming",
+    "type": "rss"
+  },
+  {
+    "site": "wired",
+    "link": "http://www.wired.com/category/underwire/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "cnet",
+    "link": "http://www.cnet.com/rss/gaming/",
+    "type": "rss"
+  },
+  {
+    "site": "webservice.techradar",
+    "link": "http://feeds.webservice.techradar.com/us/rss/news/gaming",
+    "type": "rss"
+  },
+  {
+    "site": "usatoday",
+    "link": "http://rssfeeds.usatoday.com/topgaming",
+    "type": "rss"
+  },
+  {
+    "site": "arstechnica",
+    "link": "http://feeds.arstechnica.com/arstechnica/gaming",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7497",
+    "type": "rss"
+  },
+  {
+    "site": "news.gc",
+    "link": "http://news.gc.ca/web/fd-en.do?mthd=ntnl\u0026ft=atom",
+    "type": "rss"
+  },
+  {
+    "site": "news.gc",
+    "link": "http://news.gc.ca/web/fd-en.do?mthd=rgnl\u0026ft=atom",
+    "type": "rss"
+  },
+  {
+    "site": "journaldemontreal",
+    "link": "http://www.journaldemontreal.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "radio-canada",
+    "link": "http://rss.radio-canada.ca/fils/nouvelles/national.xml",
+    "type": "rss"
+  },
+  {
+    "site": "calgarysun",
+    "link": "http://www.calgarysun.com/home/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "leaderpost",
+    "link": "http://leaderpost.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "thestarphoenix",
+    "link": "http://thestarphoenix.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "windsorstar",
+    "link": "http://windsorstar.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "cbc",
+    "link": "http://www.cbc.ca/cmlink/rss-canada",
+    "type": "rss"
+  },
+  {
+    "site": "ctvnews",
+    "link": "http://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822284",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F75",
+    "type": "rss"
+  },
+  {
+    "site": "globalnews",
+    "link": "http://globalnews.ca/canada/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "thestar",
+    "link": "http://www.thestar.com/feeds.articles.news.canada.rss",
+    "type": "rss"
+  },
+  {
+    "site": "theglobeandmail",
+    "link": "http://www.theglobeandmail.com/news/national/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F270",
+    "type": "rss"
+  },
+  {
+    "site": "macleans",
+    "link": "http://www.macleans.ca/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7364",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F264",
+    "type": "rss"
+  },
+  {
+    "site": "nhl",
+    "link": "http://www.nhl.com/rss/news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/Reuters/worldNews",
+    "type": "rss"
+  },
+  {
+    "site": "660news",
+    "link": "http://www.660news.com/featured/spotlight/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "brandonsun",
+    "link": "http://www.brandonsun.com/rss/?path=%2Fnational%2Fbreaking-news",
+    "type": "rss"
+  },
+  {
+    "site": "thewalrus",
+    "link": "http://thewalrus.ca/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "torontosun",
+    "link": "http://www.torontosun.com/home/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F243",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F259",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F291",
+    "type": "rss"
+  },
+  {
+    "site": "feedblitz",
+    "link": "http://feeds.feedblitz.com/thetyee",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.ca/feeds/verticals/canada-politics/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "backofthebook",
+    "link": "http://backofthebook.ca/feed/rss/",
+    "type": "rss"
+  },
+  {
+    "site": "radio-canada",
+    "link": "http://rss.radio-canada.ca/fils/nouvelles/politique.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/rabble-news?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "hilltimes",
+    "link": "http://www.hilltimes.com/feed",
+    "type": "rss"
+  },
+  {
+    "site": "theglobeandmail",
+    "link": "http://www.theglobeandmail.com/news/politics/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "cbc",
+    "link": "http://rss.cbc.ca/lineup/politics.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ctvnews",
+    "link": "http://www.ctvnews.ca/rss/ctvnews-ca-politics-public-rss-1.822302",
+    "type": "rss"
+  },
+  {
+    "site": "globalnews",
+    "link": "http://globalnews.ca/politics/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "globalnews",
+    "link": "http://globalnews.ca/politics/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/topics/canadian-politics/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "thestar",
+    "link": "http://www.thestar.com/feeds.blogs.news.politics_blog.rss",
+    "type": "rss"
+  },
+  {
+    "site": "thestar",
+    "link": "http://www.thestar.com/feeds.articles.news.canada.rss",
+    "type": "rss"
+  },
+  {
+    "site": "macleans",
+    "link": "http://www.macleans.ca/author/inklesswells/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "topics.nytimes",
+    "link": "http://topics.nytimes.com/top/news/international/countriesandterritories/canada/index.html?rss=1",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7537",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/morningstar/glkd",
+    "type": "rss"
+  },
+  {
+    "site": "news.gc",
+    "link": "http://news.gc.ca/web/fd-en.do?mthd=thm\u0026ft=atom\u0026crtr.thm1D=7",
+    "type": "rss"
+  },
+  {
+    "site": "news.gc",
+    "link": "http://news.gc.ca/web/fd-en.do?mthd=thm\u0026ft=atom\u0026crtr.thm1D=17",
+    "type": "rss"
+  },
+  {
+    "site": "radio-canada",
+    "link": "http://rss.radio-canada.ca/fils/nouvelles/economieaffaires.xml",
+    "type": "rss"
+  },
+  {
+    "site": "calgarysun",
+    "link": "http://www.calgarysun.com/money/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.ca/feeds/verticals/canada-business/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canoe",
+    "link": "http://rss.canoe.com/Money/home.xml",
+    "type": "rss"
+  },
+  {
+    "site": "itbusiness",
+    "link": "http://www.itbusiness.ca/feed",
+    "type": "rss"
+  },
+  {
+    "site": "ft",
+    "link": "http://www.ft.com/rss/home/us",
+    "type": "rss"
+  },
+  {
+    "site": "cbc",
+    "link": "http://rss.cbc.ca/lineup/business.xml",
+    "type": "rss"
+  },
+  {
+    "site": "cbj",
+    "link": "http://www.cbj.ca/business_news/canadian_business_news/index.1.rss",
+    "type": "rss"
+  },
+  {
+    "site": "cbj",
+    "link": "http://www.cbj.ca/business_in_action/april_11/index.1.rss",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/FP_TopStories?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "canadianbusiness",
+    "link": "http://www.canadianbusiness.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "ctvnews",
+    "link": "http://www.ctvnews.ca/rss/business/ctv-news-business-headlines-1.867648",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/blogs/americasview/2014/09/politics-alberta?fsrc=rss",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7477",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F6939",
+    "type": "rss"
+  },
+  {
+    "site": "blogs.wsj",
+    "link": "http://blogs.wsj.com/canadarealtime/feed/?mod=WSJ_Canada_Realtime\u0026mg=blogs-wsj\u0026url=http%253A%252F%252Fblogs.wsj.com%252Fcanadarealtime%252Ffeed%253Fmod%253DWSJ_Canada_Realt",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7541",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/feedburner/g4tv_ca",
+    "type": "rss"
+  },
+  {
+    "site": "cogconnected",
+    "link": "http://cogconnected.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "cvawards",
+    "link": "http://www.cvawards.ca/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "gamingpost",
+    "link": "http://www.gamingpost.ca/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7523",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7519",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7517",
+    "type": "rss"
+  },
+  {
+    "site": "ellecanada",
+    "link": "http://www.ellecanada.com/rss_feed/home.rss",
+    "type": "rss"
+  },
+  {
+    "site": "news.gc",
+    "link": "http://news.gc.ca/web/fd-en.do?mthd=thm\u0026ft=atom\u0026crtr.thm1D=9",
+    "type": "rss"
+  },
+  {
+    "site": "journaldemontreal",
+    "link": "http://www.journaldemontreal.com/jm/sante/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "calgarysun",
+    "link": "http://www.calgarysun.com/life/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.ca/feeds/verticals/canada-lifestyle/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canoe",
+    "link": "http://rss.canoe.com/Lifewise/home.xml",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "thestar",
+    "link": "http://www.thestar.com/feeds.articles.life.health_wellness.rss",
+    "type": "rss"
+  },
+  {
+    "site": "theglobeandmail",
+    "link": "http://www.theglobeandmail.com/life/health-and-fitness/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "torontosun",
+    "link": "http://www.torontosun.com/life/health-and-fitness/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7523",
+    "type": "rss"
+  },
+  {
+    "site": "news.nationalpost",
+    "link": "http://news.nationalpost.com/category/health/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F6918",
+    "type": "rss"
+  },
+  {
+    "site": "ottawacitizen",
+    "link": "http://ottawacitizen.com/feed",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7738",
+    "type": "rss"
+  },
+  {
+    "site": "metroland",
+    "link": "http://rss.metroland.com/9/article/hamilton/living/health",
+    "type": "rss"
+  },
+  {
+    "site": "cbc",
+    "link": "http://www.cbc.ca/cmlink/1.392",
+    "type": "rss"
+  },
+  {
+    "site": "radio-canada",
+    "link": "http://rss.radio-canada.ca/fils/nouvelles/scienceetsante.xml",
+    "type": "rss"
+  },
+  {
+    "site": "cbc",
+    "link": "http://www.cbc.ca/cmlink/1.392",
+    "type": "rss"
+  },
+  {
+    "site": "ctvnews",
+    "link": "http://www.ctvnews.ca/rss/ctvnews-ca-sci-tech-public-rss-1.822295",
+    "type": "rss"
+  },
+  {
+    "site": "globalnews",
+    "link": "http://globalnews.ca/science/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/science/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "thestar",
+    "link": "http://www.thestar.com/feeds.articles.life.technology.rss",
+    "type": "rss"
+  },
+  {
+    "site": "business.financialpost",
+    "link": "http://business.financialpost.com/category/fp-tech-desk/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "news.nationalpost",
+    "link": "http://news.nationalpost.com/category/health/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "theglobeandmail",
+    "link": "http://www.theglobeandmail.com/technology/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "torontosun",
+    "link": "http://www.torontosun.com/tech/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "torontosun",
+    "link": "http://www.torontosun.com/life/health-and-fitness/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7523",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F255",
+    "type": "rss"
+  },
+  {
+    "site": "journaldemontreal",
+    "link": "http://www.journaldemontreal.com/sports/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "radio-canada",
+    "link": "http://rss.radio-canada.ca/fils/sports/sports.xml",
+    "type": "rss"
+  },
+  {
+    "site": "calgarysun",
+    "link": "http://www.calgarysun.com/sports/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.ca/feeds/verticals/canada-sports/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canoe",
+    "link": "http://rss.canoe.com/Slam/home.xml",
+    "type": "rss"
+  },
+  {
+    "site": "torontosportsmedia",
+    "link": "http://torontosportsmedia.com/feed",
+    "type": "rss"
+  },
+  {
+    "site": "en.cis-sic",
+    "link": "http://en.cis-sic.ca/landing/headlines-featured?feed=rss_2.0",
+    "type": "rss"
+  },
+  {
+    "site": "cbc",
+    "link": "http://www.cbc.ca/cmlink/rss-sports",
+    "type": "rss"
+  },
+  {
+    "site": "tsn",
+    "link": "http://www.tsn.ca/datafiles/rss/Stories.xml",
+    "type": "rss"
+  },
+  {
+    "site": "sportsnet",
+    "link": "http://www.sportsnet.ca/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "ca.sports",
+    "link": "https://ca.sports.yahoo.com/top/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "thestar",
+    "link": "http://www.thestar.com/feeds.articles.sports.rss",
+    "type": "rss"
+  },
+  {
+    "site": "theglobeandmail",
+    "link": "http://www.theglobeandmail.com/sports/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F260",
+    "type": "rss"
+  },
+  {
+    "site": "globalnews",
+    "link": "http://globalnews.ca/sports/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "torontosun",
+    "link": "http://www.torontosun.com/sports/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "winnipegfreepress",
+    "link": "http://www.winnipegfreepress.com/rss/?path=%2Fsports",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7539",
+    "type": "rss"
+  },
+  {
+    "site": "radio-canada",
+    "link": "http://rss.radio-canada.ca/fils/nouvelles/technologie.xml",
+    "type": "rss"
+  },
+  {
+    "site": "calgarysun",
+    "link": "http://www.calgarysun.com/tech/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "pcauthority",
+    "link": "http://www.pcauthority.com.au/RSS/rss.ashx?type=Category\u0026ID=12",
+    "type": "rss"
+  },
+  {
+    "site": "techvibes",
+    "link": "http://www.techvibes.com/feed/blog/xml/global/",
+    "type": "rss"
+  },
+  {
+    "site": "betakit",
+    "link": "http://betakit.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "cbc",
+    "link": "http://www.cbc.ca/cmlink/rss-technology",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7166",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F221",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7484",
+    "type": "rss"
+  },
+  {
+    "site": "mobilesyrup",
+    "link": "http://mobilesyrup.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "globalnews",
+    "link": "http://globalnews.ca/tech/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "thestar",
+    "link": "http://www.thestar.com/feeds.articles.life.technology.rss",
+    "type": "rss"
+  },
+  {
+    "site": "theepochtimes",
+    "link": "http://www.theepochtimes.com/n3/c/tech/tech-news/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/technology/news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/reuters/technologyNews?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7502",
+    "type": "rss"
+  },
+  {
+    "site": "ellecanada",
+    "link": "http://www.ellecanada.com/rss_feed/celebrity.rss",
+    "type": "rss"
+  },
+  {
+    "site": "calgarysun",
+    "link": "http://www.calgarysun.com/entertainment/celebrities/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canoe",
+    "link": "http://rss.canoe.com/Jam/Celebrities/home.xml",
+    "type": "rss"
+  },
+  {
+    "site": "blogs.etcanada",
+    "link": "http://blogs.etcanada.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "hgtv",
+    "link": "http://www.hgtv.ca/rss.ashx",
+    "type": "rss"
+  },
+  {
+    "site": "syndication.eonline",
+    "link": "http://syndication.eonline.com/syndication/feeds/rssfeeds/topstories.xml?edition=ca",
+    "type": "rss"
+  },
+  {
+    "site": "laineygossip",
+    "link": "http://www.laineygossip.com/Rss",
+    "type": "rss"
+  },
+  {
+    "site": "thestar",
+    "link": "http://www.thestar.com/feeds.articles.entertainment.rss",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.ca/feeds/verticals/canada-music/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news.gc",
+    "link": "http://news.gc.ca/web/fd-en.do?mthd=thm\u0026ft=atom\u0026crtr.thm1D=13",
+    "type": "rss"
+  },
+  {
+    "site": "calgarysun",
+    "link": "http://www.calgarysun.com/entertainment/music/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canoe",
+    "link": "http://rss.canoe.com/Jam/Music/home.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/ExclaimCaAllArticles",
+    "type": "rss"
+  },
+  {
+    "site": "chartattack",
+    "link": "http://www.chartattack.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "musiccanada",
+    "link": "http://musiccanada.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "blogtalkradio",
+    "link": "http://www.blogtalkradio.com/canadianmusician/podcast",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/thescenemag",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F6946",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7500",
+    "type": "rss"
+  },
+  {
+    "site": "journaldemontreal",
+    "link": "http://www.journaldemontreal.com/spectacles/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "radio-canada",
+    "link": "http://rss.radio-canada.ca/fils/arts-spectacles/artsetspectacles.xml",
+    "type": "rss"
+  },
+  {
+    "site": "calgarysun",
+    "link": "http://www.calgarysun.com/entertainment/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canoe",
+    "link": "http://rss.canoe.com/Jam/Movies/home.xml",
+    "type": "rss"
+  },
+  {
+    "site": "cbc",
+    "link": "http://rss.cbc.ca/lineup/arts.xml",
+    "type": "rss"
+  },
+  {
+    "site": "arts.nationalpost",
+    "link": "http://arts.nationalpost.com/category/arts/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F69",
+    "type": "rss"
+  },
+  {
+    "site": "theglobeandmail",
+    "link": "http://www.theglobeandmail.com/arts/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "torontosun",
+    "link": "http://www.torontosun.com/entertainment/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "globalnews",
+    "link": "http://globalnews.ca/category/entertainment/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F6948",
+    "type": "rss"
+  },
+  {
+    "site": "ottawasun",
+    "link": "http://www.ottawasun.com/entertainment/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "canada",
+    "link": "http://rss.canada.com/get/?F7366",
+    "type": "rss"
+  },
+  {
+    "site": "canoe",
+    "link": "http://rss.canoe.ca/Jam/home.xml",
+    "type": "rss"
+  },
+  {
+    "site": "dose",
+    "link": "http://www.dose.ca/feed",
+    "type": "rss"
+  },
+  {
+    "site": "telegraphindia",
+    "link": "http://www.telegraphindia.com/feeds/rss.jsp?id=3",
+    "type": "rss"
+  },
+  {
+    "site": "caravanmagazine",
+    "link": "http://www.caravanmagazine.in/feed",
+    "type": "rss"
+  },
+  {
+    "site": "thewire",
+    "link": "http://thewire.in/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "oneindia",
+    "link": "http://www.oneindia.com/rss/news-india-fb.xml",
+    "type": "rss"
+  },
+  {
+    "site": "sify",
+    "link": "http://sify.com/rss2/news/article/category/national",
+    "type": "rss"
+  },
+  {
+    "site": "tehelka",
+    "link": "http://www.tehelka.com/?feed=custom_feed",
+    "type": "rss"
+  },
+  {
+    "site": "outlookindia",
+    "link": "http://www.outlookindia.com/rss/main/website",
+    "type": "rss"
+  },
+  {
+    "site": "outlookindia",
+    "link": "http://www.outlookindia.com/rss/main/newswire",
+    "type": "rss"
+  },
+  {
+    "site": "outlookindia",
+    "link": "http://www.outlookindia.com/rss/section/19",
+    "type": "rss"
+  },
+  {
+    "site": "hindustantimes",
+    "link": "http://feeds.hindustantimes.com/HT-India",
+    "type": "rss"
+  },
+  {
+    "site": "indianexpress",
+    "link": "http://indianexpress.com/section/india/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "timesofindia",
+    "link": "http://timesofindia.feedsportal.com/c/33039/f/533916/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/top.xml",
+    "type": "rss"
+  },
+  {
+    "site": "timesofindia",
+    "link": "http://timesofindia.feedsportal.com/c/33039/f/533965/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "indiatoday",
+    "link": "http://indiatoday.feedsportal.com/c/33614/f/589699/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "thehindubusinessline",
+    "link": "http://www.thehindubusinessline.com/news/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "thehindubusinessline",
+    "link": "http://www.thehindubusinessline.com/news/international/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "thehindu",
+    "link": "http://www.thehindu.com/news/national/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "zeenews.india",
+    "link": "http://zeenews.india.com/rss/world-news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "business-standard",
+    "link": "http://www.business-standard.com/rss/current-affairs-news-11501.rss",
+    "type": "rss"
+  },
+  {
+    "site": "nvonews",
+    "link": "http://nvonews.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "economictimes.indiatimes",
+    "link": "http://economictimes.indiatimes.com/News/rssfeeds/1715249553.cms",
+    "type": "rss"
+  },
+  {
+    "site": "sikhsiyasat",
+    "link": "http://www.sikhsiyasat.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "indiatoday",
+    "link": "http://indiatoday.feedsportal.com/c/33614/f/589699/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "asianage",
+    "link": "http://www.asianage.com/rss/38",
+    "type": "rss"
+  },
+  {
+    "site": "business-standard",
+    "link": "http://www.business-standard.com/rss/home_page_top_stories.rss",
+    "type": "rss"
+  },
+  {
+    "site": "dnaindia",
+    "link": "http://www.dnaindia.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "deccanchronicle",
+    "link": "http://www.deccanchronicle.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "deccanherald",
+    "link": "http://www.deccanherald.com/rss-internal/top-stories.rss",
+    "type": "rss"
+  },
+  {
+    "site": "syndication.financialexpress",
+    "link": "http://syndication.financialexpress.com/rss/latest-news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "mid-day",
+    "link": "http://www.mid-day.com/Resources/midday/rss/news-national.xml",
+    "type": "rss"
+  },
+  {
+    "site": "livemint",
+    "link": "http://www.livemint.com/rss/homepage",
+    "type": "rss"
+  },
+  {
+    "site": "telegraphindia",
+    "link": "http://www.telegraphindia.com/feeds/rss.jsp?id=4",
+    "type": "rss"
+  },
+  {
+    "site": "sify",
+    "link": "http://sify.com/rss2/news/article/category/politics",
+    "type": "rss"
+  },
+  {
+    "site": "thehindu",
+    "link": "http://www.thehindu.com/news/national/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "thehindu",
+    "link": "http://www.thehindu.com/news/international/south-asia/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "thehindu",
+    "link": "http://www.thehindu.com/news/cities/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "in.news",
+    "link": "https://in.news.yahoo.com/rss/politics",
+    "type": "rss"
+  },
+  {
+    "site": "in.news",
+    "link": "https://in.news.yahoo.com/rss/national",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/politics/politics.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/politics/elections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/shows/facethenation.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/elections/delhielections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/elections/chhattisgarhelections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/loksabhaelections/loksabhaelections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/elections/madhyapradeshelections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/elections/rajasthanelections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/elections/mizoramelections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/elections/haryanaelections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/elections/maharashtraelections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/elections/odishaelections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/elections/andhrapradeshelections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibnlive",
+    "link": "http://ibnlive.in.com/ibnrss/rss/elections/sikkimelections.xml",
+    "type": "rss"
+  },
+  {
+    "site": "inp.sagepub",
+    "link": "http://inp.sagepub.com/rss/current.xml",
+    "type": "rss"
+  },
+  {
+    "site": "indianexpress",
+    "link": "http://indianexpress.com/section/india/politics/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "timesofindia",
+    "link": "http://timesofindia.feedsportal.com/c/33039/f/533916/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "ft",
+    "link": "http://www.ft.com/rss/world/asiapacific/india",
+    "type": "rss"
+  },
+  {
+    "site": "firstpost",
+    "link": "http://www.firstpost.com/politics/feed",
+    "type": "rss"
+  },
+  {
+    "site": "frontline",
+    "link": "http://www.frontline.in/politics/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/topics/india/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "livemint",
+    "link": "http://www.livemint.com/rss/economy_politics",
+    "type": "rss"
+  },
+  {
+    "site": "oneindia",
+    "link": "http://www.oneindia.com/rss/news-business-fb.xml",
+    "type": "rss"
+  },
+  {
+    "site": "tehelka",
+    "link": "http://www.tehelka.com/economy/?feed=custom_feed",
+    "type": "rss"
+  },
+  {
+    "site": "outlookindia",
+    "link": "http://www.outlookindia.com/rss/section/18",
+    "type": "rss"
+  },
+  {
+    "site": "sify",
+    "link": "http://sify.com/rss2/business/article/category/bank",
+    "type": "rss"
+  },
+  {
+    "site": "sify",
+    "link": "http://sify.com/rss2/business/article/category/ipo",
+    "type": "rss"
+  },
+  {
+    "site": "timesofindia",
+    "link": "http://timesofindia.feedsportal.com/c/33039/f/534010/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "timesofindia",
+    "link": "http://timesofindia.feedsportal.com/c/33039/f/533919/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "economictimes.indiatimes",
+    "link": "http://economictimes.indiatimes.com/rssfeedsdefault.cms",
+    "type": "rss"
+  },
+  {
+    "site": "businessweek",
+    "link": "http://www.businessweek.com/feeds/most-popular.rss",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/reuters/INbusinessNews",
+    "type": "rss"
+  },
+  {
+    "site": "business-standard",
+    "link": "http://www.business-standard.com/rss/todays-paper.rss",
+    "type": "rss"
+  },
+  {
+    "site": "business-standard",
+    "link": "http://www.business-standard.com/rss/home_page_top_stories.rss",
+    "type": "rss"
+  },
+  {
+    "site": "forbesindia",
+    "link": "http://forbesindia.com/rssfeed/rss_all.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/NDTV-Business?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "hindustantimes",
+    "link": "http://feeds.hindustantimes.com/HT-Business?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "zeenews.india",
+    "link": "http://zeenews.india.com/rss/business.xml",
+    "type": "rss"
+  },
+  {
+    "site": "in.news",
+    "link": "https://in.news.yahoo.com/rss//india",
+    "type": "rss"
+  },
+  {
+    "site": "hosted.ap",
+    "link": "http://hosted.ap.org/lineups/WORLDHEADS.rss",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/business/news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "livemint",
+    "link": "http://www.livemint.com/rss/homepage",
+    "type": "rss"
+  },
+  {
+    "site": "nytimes",
+    "link": "http://www.nytimes.com/services/xml/rss/nyt/InternationalBusiness.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news.google",
+    "link": "https://news.google.com/news/feeds?cf=all\u0026ned=in\u0026hl=en\u0026topic=b\u0026output=rss",
+    "type": "rss"
+  },
+  {
+    "site": "thetimes",
+    "link": "http://www.thetimes.co.uk/tto/business/markets/india/rss",
+    "type": "rss"
+  },
+  {
+    "site": "livemint",
+    "link": "http://www.livemint.com/rss/companies",
+    "type": "rss"
+  },
+  {
+    "site": "livemint",
+    "link": "http://www.livemint.com/rss/consumer",
+    "type": "rss"
+  },
+  {
+    "site": "livemint",
+    "link": "http://www.livemint.com/rss/money",
+    "type": "rss"
+  },
+  {
+    "site": "livemint",
+    "link": "http://www.livemint.com/rss/industry",
+    "type": "rss"
+  },
+  {
+    "site": "femina",
+    "link": "http://www.femina.in/feeds/feeds-lifestyle.xml",
+    "type": "rss"
+  },
+  {
+    "site": "femina",
+    "link": "http://www.femina.in/feeds/feeds-fitness.xml",
+    "type": "rss"
+  },
+  {
+    "site": "hindustantimes",
+    "link": "http://feeds.hindustantimes.com/HT-HomePage-TopStories",
+    "type": "rss"
+  },
+  {
+    "site": "timesofindia.indiatimes",
+    "link": "http://timesofindia.indiatimes.com/rssfeeds/2886714.cms",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/world/asia/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "indiatoday.intoday",
+    "link": "http://indiatoday.intoday.in/rss/homepage-topstories.jsp",
+    "type": "rss"
+  },
+  {
+    "site": "lifestyle.in.msn",
+    "link": "http://lifestyle.in.msn.com/rss/health.aspx",
+    "type": "rss"
+  },
+  {
+    "site": "thehealthsite",
+    "link": "http://www.thehealthsite.com/comments/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "mensxp",
+    "link": "http://www.mensxp.com/feeds.xml",
+    "type": "rss"
+  },
+  {
+    "site": "forbesindia",
+    "link": "http://forbesindia.com/rssfeed/rss_life.xml",
+    "type": "rss"
+  },
+  {
+    "site": "mansworldindia",
+    "link": "http://www.mansworldindia.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "thehindu",
+    "link": "http://www.thehindu.com/sci-tech/health/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "pcquest",
+    "link": "http://www.pcquest.com/rss-2-2/?cat_slug=games",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/NDTV-Tech",
+    "type": "rss"
+  },
+  {
+    "site": "sify",
+    "link": "http://sify.com/rss2/news/article/category/science",
+    "type": "rss"
+  },
+  {
+    "site": "thehindu",
+    "link": "http://www.thehindu.com/sci-tech/science/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "hindustantimes",
+    "link": "http://feeds.hindustantimes.com/HT-Reviews",
+    "type": "rss"
+  },
+  {
+    "site": "dnaindia",
+    "link": "http://www.dnaindia.com/feeds/scitech.xml",
+    "type": "rss"
+  },
+  {
+    "site": "business-standard",
+    "link": "http://www.business-standard.com/rss/technology-108.rss",
+    "type": "rss"
+  },
+  {
+    "site": "indodaily",
+    "link": "http://www.indodaily.com/indodaily.xml",
+    "type": "rss"
+  },
+  {
+    "site": "timesofindia.indiatimes",
+    "link": "http://timesofindia.indiatimes.com/rss.cms",
+    "type": "rss"
+  },
+  {
+    "site": "zeenews.india",
+    "link": "http://zeenews.india.com/rss/science-technology-news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "indianexpress",
+    "link": "http://indianexpress.com/technology/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "telegraphindia",
+    "link": "http://www.telegraphindia.com/feeds/rss.jsp?id=7",
+    "type": "rss"
+  },
+  {
+    "site": "espncricinfo",
+    "link": "http://www.espncricinfo.com/rss/content/story/feeds/6.xml",
+    "type": "rss"
+  },
+  {
+    "site": "live-feeds.cricbuzz",
+    "link": "http://live-feeds.cricbuzz.com/CricbuzzFeed",
+    "type": "rss"
+  },
+  {
+    "site": "oneindia",
+    "link": "http://www.oneindia.com/rss/news-sports-fb.xml",
+    "type": "rss"
+  },
+  {
+    "site": "outlookindia",
+    "link": "http://www.outlookindia.com/rss/section/22",
+    "type": "rss"
+  },
+  {
+    "site": "sify",
+    "link": "http://sify.com/rss2/sports/article/category/cricket",
+    "type": "rss"
+  },
+  {
+    "site": "sify",
+    "link": "http://sify.com/rss2/sports/article/category/football",
+    "type": "rss"
+  },
+  {
+    "site": "sify",
+    "link": "http://sify.com/rss2/sports/article/category/others",
+    "type": "rss"
+  },
+  {
+    "site": "timesofindia",
+    "link": "http://timesofindia.feedsportal.com/c/33039/f/533921/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/NDTV-Sports",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/NDTV-Cricket",
+    "type": "rss"
+  },
+  {
+    "site": "syndication.indianexpress",
+    "link": "http://syndication.indianexpress.com/rss/785/latest-news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "in.news",
+    "link": "https://in.news.yahoo.com/rss/sports",
+    "type": "rss"
+  },
+  {
+    "site": "indiatoday",
+    "link": "http://indiatoday.feedsportal.com/c/33614/f/589706/index.rss?http://indiatoday.intoday.in/rss/article.jsp?sid=84",
+    "type": "rss"
+  },
+  {
+    "site": "zeenews.india",
+    "link": "http://zeenews.india.com/rss/sports-news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/reuters/worldOfSport",
+    "type": "rss"
+  },
+  {
+    "site": "hindustantimes",
+    "link": "http://feeds.hindustantimes.com/HT-Sport",
+    "type": "rss"
+  },
+  {
+    "site": "thehindu",
+    "link": "http://www.thehindu.com/sport/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "abplive",
+    "link": "http://www.abplive.in/sports/?widgetName=rssfeed\u0026widgetContentId=101313\u0026getXmlFeed=true",
+    "type": "rss"
+  },
+  {
+    "site": "pcquest",
+    "link": "http://www.pcquest.com/rss-2-2/?cat_slug=news-launches",
+    "type": "rss"
+  },
+  {
+    "site": "pcquest",
+    "link": "http://www.pcquest.com/rss-2-2/?cat_slug=tech-\u0026-trends",
+    "type": "rss"
+  },
+  {
+    "site": "sify",
+    "link": "http://sify.com/rss2/business/article/category/technology",
+    "type": "rss"
+  },
+  {
+    "site": "timesofindia",
+    "link": "http://timesofindia.feedsportal.com/c/33039/f/533923/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "techtree",
+    "link": "http://www.techtree.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "indianexpress",
+    "link": "http://indianexpress.com/section/technology/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "thehindu",
+    "link": "http://www.thehindu.com/sci-tech/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "thehindu",
+    "link": "http://www.thehindu.com/sci-tech/technology/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "hindustantimes",
+    "link": "http://feeds.hindustantimes.com/HT-Technology",
+    "type": "rss"
+  },
+  {
+    "site": "syndication.financialexpress",
+    "link": "http://syndication.financialexpress.com/rss/377/tech.xml",
+    "type": "rss"
+  },
+  {
+    "site": "gizmodo",
+    "link": "http://www.gizmodo.in/rss_section_feeds/19124814.cms",
+    "type": "rss"
+  },
+  {
+    "site": "zeenews.india",
+    "link": "http://zeenews.india.com/rss/science-technology-news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "computerworld",
+    "link": "http://www.computerworld.in/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "telegraphindia",
+    "link": "http://www.telegraphindia.com/feeds/rss.jsp?id=20",
+    "type": "rss"
+  },
+  {
+    "site": "tehelka",
+    "link": "http://www.tehelka.com/cinema/?feed=custom_feed",
+    "type": "rss"
+  },
+  {
+    "site": "rollingstoneindia",
+    "link": "http://rollingstoneindia.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "filmibeat",
+    "link": "http://www.filmibeat.com/rss/filmibeat-fb.xml",
+    "type": "rss"
+  },
+  {
+    "site": "outlookindia",
+    "link": "http://www.outlookindia.com/rss/section/23",
+    "type": "rss"
+  },
+  {
+    "site": "tellychakkar",
+    "link": "http://www.tellychakkar.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "in",
+    "link": "http://www.in.com/ - sthash.XTJcCE91.dpuf",
+    "type": "rss"
+  },
+  {
+    "site": "feeds2.feedburner",
+    "link": "http://feeds2.feedburner.com/musicmaza/zNyY",
+    "type": "rss"
+  },
+  {
+    "site": "feeds2.feedburner",
+    "link": "http://feeds2.feedburner.com/BollywoodNewsFeed",
+    "type": "rss"
+  },
+  {
+    "site": "bollywoodnewsworld",
+    "link": "http://www.bollywoodnewsworld.com/feed",
+    "type": "rss"
+  },
+  {
+    "site": "bollywood",
+    "link": "http://www.bollywood.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "timesofindia.indiatimes",
+    "link": "http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
+    "type": "rss"
+  },
+  {
+    "site": "indianexpress",
+    "link": "http://indianexpress.com/entertainment/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "bollywoodlife",
+    "link": "http://www.bollywoodlife.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "bollywoodhungama",
+    "link": "http://www.bollywoodhungama.com/rss/news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "dnaindia",
+    "link": "http://www.dnaindia.com/feeds/entertainment.xml",
+    "type": "rss"
+  },
+  {
+    "site": "zeenews.india",
+    "link": "http://zeenews.india.com/rss/india-national-news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "reuters",
+    "link": "http://feeds.reuters.com/reuters/INentertainmentNews",
+    "type": "rss"
+  },
+  {
+    "site": "hindustantimes",
+    "link": "http://feeds.hindustantimes.com/HT-Entertainment",
+    "type": "rss"
+  },
+  {
+    "site": "thehindu",
+    "link": "http://www.thehindu.com/entertainment/?service=rss",
+    "type": "rss"
+  },
+  {
+    "site": "livemint",
+    "link": "http://www.livemint.com/rss/lounge",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/observer/rss",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/world/rss",
+    "type": "rss"
+  },
+  {
+    "site": "theweek",
+    "link": "http://www.theweek.co.uk/feeds/all",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/uk/rss",
+    "type": "rss"
+  },
+  {
+    "site": "news.sky",
+    "link": "http://news.sky.com/feeds/rss/uk.xml",
+    "type": "rss"
+  },
+  {
+    "site": "telegraph",
+    "link": "http://www.telegraph.co.uk/news/uknews/rss",
+    "type": "rss"
+  },
+  {
+    "site": "ft",
+    "link": "http://www.ft.com/rss/world/uk",
+    "type": "rss"
+  },
+  {
+    "site": "standard",
+    "link": "http://www.standard.co.uk/news/rss",
+    "type": "rss"
+  },
+  {
+    "site": "oxfordmail",
+    "link": "http://www.oxfordmail.co.uk/news/rss/",
+    "type": "rss"
+  },
+  {
+    "site": "dailymail",
+    "link": "http://www.dailymail.co.uk/news/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "feedsportal",
+    "link": "http://rss.feedsportal.com/c/266/f/3503/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "feedsportal",
+    "link": "http://rss.feedsportal.com/c/266/f/3496/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/daily-express-uk-news",
+    "type": "rss"
+  },
+  {
+    "site": "standard",
+    "link": "http://www.standard.co.uk/news/rss",
+    "type": "rss"
+  },
+  {
+    "site": "manchestereveningnews",
+    "link": "http://www.manchestereveningnews.co.uk/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "itv",
+    "link": "http://www.itv.com/news/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "thecourier",
+    "link": "http://www.thecourier.co.uk/cmlink/1.67998",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/ScottishNewsHeraldScotland",
+    "type": "rss"
+  },
+  {
+    "site": "channel4",
+    "link": "http://www.channel4.com/news/uk/rss",
+    "type": "rss"
+  },
+  {
+    "site": "scotsman",
+    "link": "http://www.scotsman.com/rss/cmlink/1.65668",
+    "type": "rss"
+  },
+  {
+    "site": "newsletter",
+    "link": "http://www.newsletter.co.uk/rss/cmlink/1.1571541",
+    "type": "rss"
+  },
+  {
+    "site": "examiner.ie",
+    "link": "http://feeds.examiner.ie/ietopstories",
+    "type": "rss"
+  },
+  {
+    "site": "irishtimes",
+    "link": "http://www.irishtimes.com/rss/editors-picks-feed-1.1904962?localLinksEnabled=false",
+    "type": "rss"
+  },
+  {
+    "site": "skynews",
+    "link": "http://feeds.skynews.com/feeds/rss/politics.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ft",
+    "link": "http://www.ft.com/rss/world/uk/politics",
+    "type": "rss"
+  },
+  {
+    "site": "scotsman.com.dynamic",
+    "link": "http://www.scotsman.com.dynamic.feedsportal.com/pf/610141/www.scotsman.com/rss/cmlink/1.3942672",
+    "type": "rss"
+  },
+  {
+    "site": "independent",
+    "link": "http://www.independent.co.uk/news/people/diary/",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/politics/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://feeds.theguardian.com/theguardian/politics/rss",
+    "type": "rss"
+  },
+  {
+    "site": "telegraph",
+    "link": "http://www.telegraph.co.uk/news/politics/rss",
+    "type": "rss"
+  },
+  {
+    "site": "mf.feeds.reuters",
+    "link": "http://mf.feeds.reuters.com/reuters/UKdomesticNews",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/blogs/blighty/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/feeds/print-sections/76/britain.xml",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/topics/european-union/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/news/british-national-party/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/news/london-riots/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/tag/uk-election/feed",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/news/immigration/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/news/islam/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/news/media/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/news/terrorism/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/news/space-agency/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/news/economy/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "standard",
+    "link": "http://www.standard.co.uk/news/politics/rss",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/sections/business-finance/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "uk.finance",
+    "link": "https://uk.finance.yahoo.com/news/provider-yahoofinance/?format=rss",
+    "type": "rss"
+  },
+  {
+    "site": "theweek",
+    "link": "http://www.theweek.co.uk/taxonomy/term/60/feed",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/daily-express-finance-news",
+    "type": "rss"
+  },
+  {
+    "site": "manchestereveningnews",
+    "link": "http://www.manchestereveningnews.co.uk/business/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "online.wsj",
+    "link": "http://online.wsj.com/xml/rss/3_7031.xml",
+    "type": "rss"
+  },
+  {
+    "site": "blogs.wsj",
+    "link": "http://blogs.wsj.com/moneybeat/category/europe/feed/?mod=WSJ_moneybeat_blog",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://feeds.theguardian.com/theguardian/uk/business/rss",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/business/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "mf.feeds.reuters",
+    "link": "http://mf.feeds.reuters.com/reuters/UKVideoBusiness",
+    "type": "rss"
+  },
+  {
+    "site": "news.sky",
+    "link": "http://news.sky.com/feeds/rss/business.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedsportal",
+    "link": "http://rss.feedsportal.com/c/266/f/3510/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "telegraph",
+    "link": "http://www.telegraph.co.uk/finance/rss",
+    "type": "rss"
+  },
+  {
+    "site": "thetimes",
+    "link": "http://www.thetimes.co.uk/tto/business/rss",
+    "type": "rss"
+  },
+  {
+    "site": "ibtimes",
+    "link": "http://www.ibtimes.co.uk/rss/uk",
+    "type": "rss"
+  },
+  {
+    "site": "ft",
+    "link": "http://www.ft.com/rss/home/europe",
+    "type": "rss"
+  },
+  {
+    "site": "blogs.wsj",
+    "link": "http://blogs.wsj.com/emergingeurope/feed/?mod=emergingeurope\u0026mg=blogs-wsj\u0026url=http%253A%252F%252Fblogs.wsj.com%252Femergingeurope%252Ffeed%253Fmod%253Demergingeurope",
+    "type": "rss"
+  },
+  {
+    "site": "eurogamer",
+    "link": "http://www.eurogamer.net/?format=rss",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/technology/games/rss",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/daily-star-Gaming",
+    "type": "rss"
+  },
+  {
+    "site": "metro",
+    "link": "http://metro.co.uk/entertainment/gaming/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/sections/business-finance/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/us/lifeandstyle/rss",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/fashion/rss",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/travel/rss",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/health/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "independent",
+    "link": "http://www.independent.co.uk/life-style/health-and-families/health-news/rss",
+    "type": "rss"
+  },
+  {
+    "site": "express",
+    "link": "http://www.express.co.uk/posts/rss/11/health",
+    "type": "rss"
+  },
+  {
+    "site": "thetimes",
+    "link": "http://www.thetimes.co.uk/tto/health/rss",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/uk-lifestyle/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "standard",
+    "link": "http://www.standard.co.uk/lifestyle/rss",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "telegraph",
+    "link": "http://www.telegraph.co.uk/health/rss",
+    "type": "rss"
+  },
+  {
+    "site": "dailymail",
+    "link": "http://www.dailymail.co.uk/health/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "ok",
+    "link": "http://www.ok.co.uk/rss/health",
+    "type": "rss"
+  },
+  {
+    "site": "hellomagazine",
+    "link": "http://www.hellomagazine.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "mynaturallifestyle",
+    "link": "http://www.mynaturallifestyle.co.uk/naturallifestyle/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "candis",
+    "link": "http://www.candis.co.uk/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "soarmagazine",
+    "link": "http://www.soarmagazine.co.uk/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/uk/environment/rss",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/sections/science-technology/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "newscientist",
+    "link": "https://www.newscientist.com/feed/home",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://feeds.theguardian.com/theguardian/science/rss",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "independent",
+    "link": "http://www.independent.co.uk/news/science/rss",
+    "type": "rss"
+  },
+  {
+    "site": "wired",
+    "link": "http://www.wired.co.uk/news/rss",
+    "type": "rss"
+  },
+  {
+    "site": "telegraph",
+    "link": "http://www.telegraph.co.uk/science/science-news/rss",
+    "type": "rss"
+  },
+  {
+    "site": "theregister",
+    "link": "http://www.theregister.co.uk/science/headlines.atom",
+    "type": "rss"
+  },
+  {
+    "site": "dailymail",
+    "link": "http://www.dailymail.co.uk/sciencetech/articles.rss",
+    "type": "rss"
+  },
+  {
+    "site": "mirror",
+    "link": "http://www.mirror.co.uk/news/technology-science/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "ibtimes",
+    "link": "http://www.ibtimes.co.uk/rss/science",
+    "type": "rss"
+  },
+  {
+    "site": "in",
+    "link": "http://www.in.com/rss/news/sci-tech",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/football/rss",
+    "type": "rss"
+  },
+  {
+    "site": "theweek",
+    "link": "http://www.theweek.co.uk/feeds/sport",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/daily-express-sport-news",
+    "type": "rss"
+  },
+  {
+    "site": "mirror",
+    "link": "http://www.mirror.co.uk/sport/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/SportcoukNewsRssFeed",
+    "type": "rss"
+  },
+  {
+    "site": "standard",
+    "link": "http://www.standard.co.uk/sport/football/rss",
+    "type": "rss"
+  },
+  {
+    "site": "skysports",
+    "link": "http://www.skysports.com/rss/0,20514,12040,00.xml",
+    "type": "rss"
+  },
+  {
+    "site": "skysports",
+    "link": "http://www.skysports.com/rss/0,20514,20876,00.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://feeds.theguardian.com/theguardian/uk/sport/rss",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/sport/0/rss.xml?edition=uk",
+    "type": "rss"
+  },
+  {
+    "site": "dailymail",
+    "link": "http://www.dailymail.co.uk/sport/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/feeds/verticals/uk-sport/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "telegraph",
+    "link": "http://www.telegraph.co.uk/sport/rss",
+    "type": "rss"
+  },
+  {
+    "site": "metro",
+    "link": "http://metro.co.uk/sport/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "feedsportal",
+    "link": "http://rss.feedsportal.com/c/266/f/3784/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "uk.eurosport",
+    "link": "https://uk.eurosport.yahoo.com/eurosport/tickerdb/sport/0.xml",
+    "type": "rss"
+  },
+  {
+    "site": "mf.feeds.reuters",
+    "link": "http://mf.feeds.reuters.com/reuters/UKSportsNews",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/uk/gizmodo",
+    "type": "rss"
+  },
+  {
+    "site": "skynews",
+    "link": "http://feeds.skynews.com/feeds/rss/technology.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedsportal",
+    "link": "http://rss.feedsportal.com/c/559/f/7174/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/feeds/verticals/uk-tech/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "techcrunch",
+    "link": "http://techcrunch.com/europe/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "techrepublic",
+    "link": "http://www.techrepublic.com/rssfeeds/blog/european-technology/",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://feeds.theguardian.com/theguardian/technology/rss",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/technology/rss.xml#",
+    "type": "rss"
+  },
+  {
+    "site": "blogs.technet",
+    "link": "http://blogs.technet.com/b/uktechnet/rss.aspx",
+    "type": "rss"
+  },
+  {
+    "site": "blogs.which",
+    "link": "http://blogs.which.co.uk/technology/feed/atom/",
+    "type": "rss"
+  },
+  {
+    "site": "webservice.techradar",
+    "link": "http://feeds.webservice.techradar.com/rss/new",
+    "type": "rss"
+  },
+  {
+    "site": "syndication.eonline",
+    "link": "http://syndication.eonline.com/syndication/feeds/rssfeeds/topstories.xml?edition=uk",
+    "type": "rss"
+  },
+  {
+    "site": "express",
+    "link": "http://www.express.co.uk/posts/rss/79/showbiznews",
+    "type": "rss"
+  },
+  {
+    "site": "metro",
+    "link": "http://metro.co.uk/entertainment/showbiz/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "skynews",
+    "link": "http://feeds.skynews.com/feeds/rss/entertainment.xml",
+    "type": "rss"
+  },
+  {
+    "site": "celebsnow",
+    "link": "http://www.celebsnow.co.uk/feed",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.co.uk/news/celebrity/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "standard",
+    "link": "http://www.standard.co.uk/showbiz/rss",
+    "type": "rss"
+  },
+  {
+    "site": "manchestereveningnews",
+    "link": "http://www.manchestereveningnews.co.uk/news/showbiz-news/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/music/rss",
+    "type": "rss"
+  },
+  {
+    "site": "music-news",
+    "link": "http://www.music-news.com/rss/UK/news",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/factmag",
+    "type": "rss"
+  },
+  {
+    "site": "uncut",
+    "link": "http://www.uncut.co.uk/feed",
+    "type": "rss"
+  },
+  {
+    "site": "clashmusic",
+    "link": "http://www.clashmusic.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/us/film/rss",
+    "type": "rss"
+  },
+  {
+    "site": "mirror",
+    "link": "http://www.mirror.co.uk/tv/tv-news/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "film-news",
+    "link": "http://www.film-news.co.uk/rss/UK/news",
+    "type": "rss"
+  },
+  {
+    "site": "uk.movies",
+    "link": "https://uk.movies.yahoo.com/rss",
+    "type": "rss"
+  },
+  {
+    "site": "ukfilmnews",
+    "link": "http://ukfilmnews.com/?feed=rss2",
+    "type": "rss"
+  },
+  {
+    "site": "bfi.org.uk",
+    "link": "http://www.bfi.org.uk/latest/feed",
+    "type": "rss"
+  },
+  {
+    "site": "metro",
+    "link": "http://metro.co.uk/entertainment/tv/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "telegraph",
+    "link": "http://www.telegraph.co.uk/culture/culturenews/rss",
+    "type": "rss"
+  },
+  {
+    "site": "huffingtonpost",
+    "link": "http://www.huffingtonpost.com/feeds/verticals/uk-entertainment/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "celebrity.uk.msn",
+    "link": "http://celebrity.uk.msn.com/RSS-Celebrity-Gossip.aspx",
+    "type": "rss"
+  },
+  {
+    "site": "tv.uk.msn",
+    "link": "http://tv.uk.msn.com/blog/editor-rss.aspx",
+    "type": "rss"
+  },
+  {
+    "site": "popsugar",
+    "link": "http://www.popsugar.co.uk/celebrity/feed",
+    "type": "rss"
+  },
+  {
+    "site": "entertainmentnews",
+    "link": "http://www.entertainmentnews.co.uk/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "independent",
+    "link": "http://www.independent.co.uk/arts-entertainment/tv/rss",
+    "type": "rss"
+  },
+  {
+    "site": "dailymail",
+    "link": "http://www.dailymail.co.uk/tvshowbiz/articles.rss",
+    "type": "rss"
+  },
+  {
+    "site": "mtv",
+    "link": "http://www.mtv.co.uk/rss/news",
+    "type": "rss"
+  },
+  {
+    "site": "ok",
+    "link": "http://www.ok.co.uk/rss/entertainment",
+    "type": "rss"
+  },
+  {
+    "site": "hellomagazine",
+    "link": "http://www.hellomagazine.com/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/the-edge-susu",
+    "type": "rss"
+  },
+  {
+    "site": "bestdaily",
+    "link": "http://www.bestdaily.co.uk/rss/zones/gb/all.xml",
+    "type": "rss"
+  },
+  {
+    "site": "tntmagazine",
+    "link": "http://www.tntmagazine.com/entertainment/rss",
+    "type": "rss"
+  },
+  {
+    "site": "reveal",
+    "link": "http://www.reveal.co.uk/rss/zones/gb/all.xml",
+    "type": "rss"
+  },
+  {
+    "site": "qthemusic",
+    "link": "http://www.qthemusic.com/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "feeds2.feedburner",
+    "link": "http://feeds2.feedburner.com/nmecom/rss/newsxml",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/tv-and-radio/entertainment/rss",
+    "type": "rss"
+  },
+  {
+    "site": "abc",
+    "link": "http://www.abc.net.au/news/feed/46182/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TheAustralianTheNationNews",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/au/rss",
+    "type": "rss"
+  },
+  {
+    "site": "abc",
+    "link": "http://www.abc.net.au/local/rss/sydney/news.xml",
+    "type": "rss"
+  },
+  {
+    "site": "channelnewsasia",
+    "link": "http://www.channelnewsasia.com/starterkit/servlet/cna/rss/asiapacific.xml",
+    "type": "rss"
+  },
+  {
+    "site": "brisbanetimes",
+    "link": "http://feeds.brisbanetimes.com.au/rssheadlines/national.xml",
+    "type": "rss"
+  },
+  {
+    "site": "brisbanetimes",
+    "link": "http://feeds.brisbanetimes.com.au/rssheadlines/world.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theage",
+    "link": "http://feeds.theage.com.au/rssheadlines/national.xml",
+    "type": "rss"
+  },
+  {
+    "site": "au.ibtimes",
+    "link": "http://au.ibtimes.com/rss/articles/countries/13.rss",
+    "type": "rss"
+  },
+  {
+    "site": "nzherald",
+    "link": "http://rss.nzherald.co.nz/rss/xml/nzhrsscid_000000002.xml",
+    "type": "rss"
+  },
+  {
+    "site": "gmanetwork",
+    "link": "http://www.gmanetwork.com/news/rss/news",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/news/world/asia/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "dailymail",
+    "link": "http://www.dailymail.co.uk/auhome/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/dailytelegraphnationalnewsndm?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/bcm_top_stories_257.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/anow_topstories_250.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/heraldsun/rss/heraldsun_news_morenews_2794.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/The%20Mercury%20%7C%20Top%20Stories_3304.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/wtn_top_3368.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TheAustralianPolitics",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/au_national_affairs_news_13_3296.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TheAustralianMediaNews",
+    "type": "rss"
+  },
+  {
+    "site": "businessspectator",
+    "link": "http://www.businessspectator.com.au/bs/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "abc",
+    "link": "http://www.abc.net.au/news/feed/1534/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "abc",
+    "link": "http://www.abc.net.au/radionational/feed/3727018/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "abc",
+    "link": "http://www.abc.net.au/radionational/feed/2884582/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "pm.gov.au",
+    "link": "http://www.pm.gov.au/rss-feeds/press-office",
+    "type": "rss"
+  },
+  {
+    "site": "rba.gov.au",
+    "link": "http://www.rba.gov.au/rss/rss-cb-media-releases.xml",
+    "type": "rss"
+  },
+  {
+    "site": "crikey",
+    "link": "http://www.crikey.com.au/politics/feed",
+    "type": "rss"
+  },
+  {
+    "site": "economist",
+    "link": "http://www.economist.com/topics/australia/index.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theguardian",
+    "link": "http://www.theguardian.com/world/australian-politics/rss",
+    "type": "rss"
+  },
+  {
+    "site": "mashable",
+    "link": "http://mashable.com/category/australian-politics/rss/",
+    "type": "rss"
+  },
+  {
+    "site": "businessspectator",
+    "link": "http://www.businessspectator.com.au/bs/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "cio",
+    "link": "http://www.cio.com/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "dynamicbusiness",
+    "link": "http://www.dynamicbusiness.com.au/feed",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TheAustralianBusNews?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TheAustralianBusAviation?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TheAustralianBusinessWorldBusNews?format=xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/business_top_stories_346.xml",
+    "type": "rss"
+  },
+  {
+    "site": "abc",
+    "link": "http://www.abc.net.au/news/feed/51892/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "smh",
+    "link": "http://www.smh.com.au/rssheadlines/business.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/heraldsun/rss/heraldsun_news_business_2783.xml",
+    "type": "rss"
+  },
+  {
+    "site": "abns",
+    "link": "http://abns.com.au/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "smh",
+    "link": "http://www.smh.com.au/rssheadlines/health/article/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "womenshealthandfitness",
+    "link": "http://www.womenshealthandfitness.com.au/component/obrss/women-s-health-fitness-combined-feed?format=",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/news_lifestyle_3171.xml",
+    "type": "rss"
+  },
+  {
+    "site": "telegraph",
+    "link": "http://www.telegraph.co.uk/health/rss",
+    "type": "rss"
+  },
+  {
+    "site": "shapemagazine",
+    "link": "http://www.shapemagazine.com.au/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "alive",
+    "link": "http://www.alive.com/articles/rss",
+    "type": "rss"
+  },
+  {
+    "site": "wellbeing",
+    "link": "http://www.wellbeing.com.au/blog/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "mensfitnessmagazine",
+    "link": "http://www.mensfitnessmagazine.com.au/topics/health-nutrition/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "dailyrecord",
+    "link": "http://www.dailyrecord.co.uk/lifestyle/health-fitness/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "starobserver",
+    "link": "http://www.starobserver.com.au/category/features/healthy-living/feed",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/news_tech_506.xml",
+    "type": "rss"
+  },
+  {
+    "site": "smh",
+    "link": "http://www.smh.com.au/rssheadlines/health/article/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "sbs",
+    "link": "http://www.sbs.com.au/news/rss/news/science-technology.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theage",
+    "link": "http://www.theage.com.au/rssheadlines/technology-news/article/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "watoday",
+    "link": "http://www.watoday.com.au/rssheadlines/technology-news/article/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "australianscience",
+    "link": "http://www.australianscience.com.au/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "scienceweek",
+    "link": "http://www.scienceweek.net.au/homepage/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/fs_breaking_news_13.xml",
+    "type": "rss"
+  },
+  {
+    "site": "abc",
+    "link": "http://www.abc.net.au/news/feed/45924/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/TheAustralianSportsNews",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/news_sport_3168.xml",
+    "type": "rss"
+  },
+  {
+    "site": "smh",
+    "link": "http://feeds.smh.com.au/rssheadlines/sport.xml",
+    "type": "rss"
+  },
+  {
+    "site": "theage",
+    "link": "http://feeds.theage.com.au/rssheadlines/sport.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/rss/newslocal/dt_nlocal_sport_3214.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/heraldsun/rss/heraldsun_news_sport_2789.xml",
+    "type": "rss"
+  },
+  {
+    "site": "bbci",
+    "link": "http://feeds.bbci.co.uk/sport/0/cricket/rss.xml?edition=uk",
+    "type": "rss"
+  },
+  {
+    "site": "sbs",
+    "link": "http://sbs.feedsportal.com/c/34692/f/637526/index.rss",
+    "type": "rss"
+  },
+  {
+    "site": "wwos.ninemsn",
+    "link": "http://wwos.ninemsn.com.au/rss/headlines/",
+    "type": "rss"
+  },
+  {
+    "site": "gizmodo",
+    "link": "http://feeds.gizmodo.com.au/gizmodoaustraliaau",
+    "type": "rss"
+  },
+  {
+    "site": "smh",
+    "link": "http://www.smh.com.au/rssheadlines/technology-news/article/rss.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/ausit_exec_topstories_385.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/heraldsun/rss/heraldsun_news_technology_2790.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/news_tech_506.xml",
+    "type": "rss"
+  },
+  {
+    "site": "techau",
+    "link": "http://techau.com.au/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "techrepublic",
+    "link": "http://www.techrepublic.com/rssfeeds/blog/australian-technology/",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://www.news.com.au/entertainment",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/cpost_news_entertainment_3329.xml",
+    "type": "rss"
+  },
+  {
+    "site": "news",
+    "link": "http://feeds.news.com.au/public/rss/2.0/The%20Mercury%20|%20Entertainment_3306.xml",
+    "type": "rss"
+  },
+  {
+    "site": "goldcoastbulletin",
+    "link": "http://www.goldcoastbulletin.com.au/entertainment",
+    "type": "rss"
+  },
+  {
+    "site": "spotlightreport",
+    "link": "http://www.spotlightreport.net/feed",
+    "type": "rss"
+  },
+  {
+    "site": "popsugar",
+    "link": "http://www.popsugar.com.au/celebrity/feed",
+    "type": "rss"
+  },
+  {
+    "site": "okmagazine",
+    "link": "http://www.okmagazine.com.au/rss.axd?channel=entertainment_articles",
+    "type": "rss"
+  },
+  {
+    "site": "studiotv",
+    "link": "http://www.studiotv.com.au/feed/",
+    "type": "rss"
+  },
+  {
+    "site": "feedburner",
+    "link": "http://feeds.feedburner.com/sunshinecoastdailyentertainmen",
+    "type": "rss"
+  }
+]
