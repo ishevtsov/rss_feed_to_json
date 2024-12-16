@@ -9,6 +9,12 @@ import (
 	"strings"
 )
 
+type Feed struct {
+	Site string `json:"site"`
+	Link string `json:"link"`
+	Type string `json:"type"`
+}
+
 func scanFile(f string) []string {
 	file, err := os.Open(f)
 	if err != nil {
@@ -28,12 +34,6 @@ func scanFile(f string) []string {
 		log.Fatal(err)
 	}
 	return urls
-}
-
-type Feed struct {
-	Site string `json:"site"`
-	Link string `json:"link"`
-	Type string `json:"type"`
 }
 
 func stripHost(host string) string {
