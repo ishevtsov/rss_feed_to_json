@@ -15,15 +15,20 @@ type Feed struct {
 	Type string `json:"type"`
 }
 
-func scanFile(f string) []string {
+func readRSS(f string) []string {
 	file, err := os.Open(f)
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer file.Close()
 
-	var urls []string
 	scanner := bufio.NewScanner(file)
+	urls := getURLs(scanner)
+	return urls
+}
+
+func getURLs(scanner *bufio.Scanner) []string {
+	var urls []string
 	for scanner.Scan() {
 		line := strings.SplitN(scanner.Text(), " ", 3)[2:]
 		url := strings.Join(line, "")
@@ -77,10 +82,10 @@ func writeJson(fileW string, feeds []Feed) {
 }
 
 func main() {
-	const readRSS = "data/rss.txt"
-	const writeRSS = "data/rss.json"
+	const srcRSS = "data/rss.txt"
+	const dstRSS = "data/rss.json"
 
-	urls := scanFile(readRSS)
+	urls := readRSS(srcRSS)
 	feeds := getFeeds(urls)
-	writeJson(writeRSS, feeds)
+	writeJson(dstRSS, feeds)
 }
