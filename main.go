@@ -24,20 +24,23 @@ func readRSS(f string) []string {
 
 	scanner := bufio.NewScanner(file)
 	urls := getURLs(scanner)
+
 	return urls
 }
 
 func getURLs(scanner *bufio.Scanner) []string {
 	var urls []string
+
 	for scanner.Scan() {
 		line := strings.SplitN(scanner.Text(), " ", 3)[2:]
 		url := strings.Join(line, "")
 		urls = append(urls, url)
 	}
-
+	// https://go.dev/blog/errors-are-values
 	if err := scanner.Err(); err != nil {
 		log.Fatal(err)
 	}
+
 	return urls
 }
 
@@ -50,6 +53,7 @@ func stripHost(host string) string {
 	for _, suffix := range suffixes {
 		host, _ = strings.CutSuffix(host, suffix)
 	}
+
 	return host
 }
 
@@ -68,6 +72,7 @@ func getFeeds(urls []string) []Feed {
 		}
 		feeds = append(feeds, feed)
 	}
+
 	return feeds
 }
 
