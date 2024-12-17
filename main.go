@@ -48,10 +48,10 @@ func stripHost(host string) string {
 	prefixes := []string{"www.", "feeds.", "rss.", "rssfeeds."}
 	suffixes := []string{".com", ".co.uk", ".com.au", ".net.au", ".co.nz", ".yahoo", ".in", ".feedsportal", ".ca", ".net", ".org", ".gov"}
 	for _, prefix := range prefixes {
-		host, _ = strings.CutPrefix(host, prefix)
+		host = strings.TrimPrefix(host, prefix)
 	}
 	for _, suffix := range suffixes {
-		host, _ = strings.CutSuffix(host, suffix)
+		host = strings.TrimSuffix(host, suffix)
 	}
 
 	return host
